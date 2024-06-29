@@ -2,7 +2,7 @@
 
 Forensilog is a sophisticated tool designed for the analysis and modification of Windows Event Log files. Developed with a user-friendly C# GUI, Forensilog allows users to efficiently work with and manage Windows log files, enhancing their ability to conduct thorough forensic investigations and system audits.
 
-**Notes**: It is highly recommended to read the documentation before using this tool to ensure effective and correct usage.
+**Note**: It is highly recommended to read the documentation before using this tool to ensure effective and correct usage.
 
 ## Functionality
 
@@ -17,32 +17,29 @@ Forensilog is a sophisticated tool designed for the analysis and modification of
 
 ## Features
 
-### Home Page
+1. **Home Page**: 
+   - Provides access to various functions like adding or deleting log files.
+   <img src="images/reimage1.png" alt="third" width="800">
 
-- **Table Display**: Shows available log files in the system.
+2. **Log File Table**:
+   - Displays available log files in the system on the home page.
 
-### Application Log Tab
+3. **Application Log Tab**:
+   - Add, view, and delete application log files. Similar functionality is available for system logs.
 
-- **Add, View, and Delete**: Manage application log files, including adding, viewing, and deleting entries. Similar functionality is available for system logs.
+4. **Investigation Tab**:
+   - Add log files and investigator details, then tag events and add notable items for thorough investigation.
 
-### Investigation Tab
+5. **Investigator Details**:
+   - Manage and add details of investigators along with relevant information.
 
-- **Detailed Analysis**: Add log files and investigator details, then tag events and add notable items for thorough investigation.
+6. **Log and Item Management**:
+   - View and add log files, notable items, and tagged items.
 
-### Investigator Details
+7. **Security Assessment Page**:
+   - This page is critical for security assessments and requires careful reading of the documentation for proper use.
 
-- **Information Management**: Add and manage details of investigators along with relevant information.
-
-### Log and Item Management
-
-- **Tagging and Noting**: View and add log files, notable items, and tagged items.
-
-### Security Assessment Page
-
-- **Critical Usage**: This page requires careful reading of the documentation for proper use. It is essential for conducting security assessments.
-
-### Final Report
-
-- **Investigation Summary**: Generate a comprehensive report of the investigation.
+8. **Final Report**:
+   - Generate a comprehensive report of the investigation.
 
 Forensilog provides a powerful set of tools for managing Windows Event Log files, making it an invaluable asset for forensic and security professionals. Be sure to consult the detailed documentation to make the most of its extensive features.
