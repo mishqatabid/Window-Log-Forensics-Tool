@@ -43,3 +43,13 @@ Forensilog is a sophisticated tool designed for the analysis and modification of
    - Generate a comprehensive report of the investigation.
    <img src="images/readme_images/image9.png" alt="third" width="500">
 Forensilog provides a powerful set of tools for managing Windows Event Log files, making it an invaluable asset for forensic and security professionals. Be sure to consult the detailed documentation to make the most of its extensive features.
+
+Contributors:
+
+To list these as contributors to a GitHub repository, you can format it like this:
+
+**Contributors:**
+- [Mishqatabid](https://github.com/mishqatabid)
+- [Nahl16](https://github.com/nahl16)
+- [H4x3r-222](https://github.com/h4x3r-222) 
+
