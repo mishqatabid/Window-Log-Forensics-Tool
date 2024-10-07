@@ -1,13 +1,13 @@
 # Forensilog
 
-Forensilog is a sophisticated tool designed for the analysis and modification of Windows Event Log files. Developed with a user-friendly C# GUI, Forensilog allows users to efficiently work with and manage Windows log files, enhancing their ability to conduct thorough forensic investigations and system audits.
+Forensilog is a sophisticated tool designed for the analysis and modification of Windows Event Log files. Developed with a user-friendly C# GUI, Forensilog allows users to work with and manage Windows log files efficiently, enhancing their ability to conduct thorough forensic investigations and system audits.
 
 **Note**: It is highly recommended to read the documentation before using this tool to ensure effective and correct usage.
 
 ## Functionality
 
 1. **View Windows Event Log Files**: Easily access and read event log files.
-2. **Modify Log Files**: Edit and update log file entries as needed.
+2. **Modify Log Files**: Edit and update log file entries as needed.  
 3. **Create or Delete Log Files**: Generate new log files or remove existing ones.
 4. **Delete All Logs from a File**: Clear all entries within a log file.
 5. **Generate Random Log Files**: Create log files with randomly generated data.
